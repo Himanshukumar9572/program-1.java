@@ -1,6 +1,10 @@
 # program-1.java
 import java.util.Scanner;
 
+Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division.
+Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
+Datatype :> ‘a’ = double, ‘b’ = double, ‘type of operation’ = string
+
 public class JavaExample {
 
     public static void main(String[] args) {
